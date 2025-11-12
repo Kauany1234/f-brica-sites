@@ -1,0 +1,24 @@
+#any{
+    
+    color: blue;
+    
+}
+body{color: blue;}
+#kauany{
+    width: 250px;
+}
+body{
+    background-color: cornflowerblue;
+}
+#kaka{
+    width: 250px;
+}
+#up{
+    background-color: blue;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    color: steelblue;
+}
