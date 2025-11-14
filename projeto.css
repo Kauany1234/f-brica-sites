@@ -22,3 +22,33 @@ body{
     box-shadow: 10px 10px 10px black;
     color: steelblue;
 }
+body.assunto-3{
+    background-image: url("f9007b40031449151b374c46541918bf.jpg");
+}
+#navbar
+    .stitch a:hover {
+    background-color: blue;
+    color: aqua;
+
+}
+div{
+    padding: 10px;
+    margin: 10px;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 116px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: dodgerblue;
+}
+.navbar{
+    overflow: hidden;
+    background-color: blue;
+    text-align: center;
+}
+
