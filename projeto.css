@@ -65,5 +65,7 @@ div {
 }
 
 .saiba-mais {
-    background: url("gravura-de-folhas-tropicais-desenhadas-a-mao-de-fundo_23-2148953288.avif") no-repeat cover;
+    background: url("gravura-de-folhas-tropicais-desenhadas-a-mao-de-fundo_23-2148953288.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
