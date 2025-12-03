@@ -1,19 +1,26 @@
-#any{
-    
+#any {
+
     color: blue;
-    
+
 }
-body{color: blue;}
-#kauany{
+
+body {
+    color: blue;
+}
+
+#kauany {
     width: 250px;
 }
-body{
+
+body {
     background-color: cornflowerblue;
 }
-#kaka{
+
+#kaka {
     width: 250px;
 }
-#up{
+
+#up {
     background-color: blue;
     text-align: center;
     align-items: center;
@@ -22,19 +29,22 @@ body{
     box-shadow: 10px 10px 10px black;
     color: steelblue;
 }
-body.assunto-3{
+
+body.assunto-3 {
     background-image: url("f9007b40031449151b374c46541918bf.jpg");
 }
-#navbar
-    .stitch a:hover {
+
+#navbar .stitch a:hover {
     background-color: blue;
     color: aqua;
 
 }
-div{
+
+div {
     padding: 10px;
     margin: 10px;
 }
+
 .navbar a {
     float: left;
     display: block;
@@ -43,13 +53,17 @@ div{
     padding: 14px 116px;
     text-decoration: none;
 }
+
 .navbar a:hover {
     background-color: dodgerblue;
 }
-.navbar{
+
+.navbar {
     overflow: hidden;
     background-color: blue;
     text-align: center;
 }
 
-
+.saiba-mais {
+    background: url("gravura-de-folhas-tropicais-desenhadas-a-mao-de-fundo_23-2148953288.avif") no-repeat cover;
+}
